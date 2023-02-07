@@ -1,0 +1,48 @@
+The best way to upskill ---
+    Is to try the work myself
+
+Thank you KPMG for this free virtual intership
+
+
+TASK 1:
+DATA QUALITY ASSESSMENT
+
+Identifying the data quality issues in the client dataset and ensure it's accurate complete and reliable.
+
+I make sure this data is error-free and adheres to the data quality for further insights and trend analysis.
+
+ABOUT THE DATASET:
+Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation. It needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy. 
+
+It has 3 datasets:
+
+Customer Demographic 
+Customer Addresses
+Transactions data in the past 3 months
+
+I started the data quality check in the 3 given datasets and documented my points in the word doc named 'Task1_Data quality check'.
+
+I'am using Excel for data quality check.
+
+
+
+TASK 2:
+DATA INSIGHTS
+
+Sprocket Central Pty Ltd has given a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
+
+Task is to analyze the data that would reveal useful customer insights which could help optimise resource allocation for targeted marketing.Hence, improve performance by focusing on high value customers.
+
+
+For this task, I analysed by creating pivot tables and the analysis can be found in the tabs 'pivot_transactions' and  'pivot_customers'.
+
+Insights and Conclusion - 
+
+Finally, I recommend the SProcket central team to concentrate and Target the sales in these areas - 
+
+1. The New South Wales State.
+2. Customers with DOB below 1980
+3. More stock on medium product class type.
+4. Top 3 selling brands - Solex, WeareA2B and Giant Bicycles. 
+
+
